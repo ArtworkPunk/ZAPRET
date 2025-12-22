@@ -1,0 +1,105 @@
+# Google/YouTube
+youtube.com
+*.youtube.com
+googlevideo.com
+*.googlevideo.com
+youtubei.googleapis.com
+ytimg.com
+*.ytimg.com
+i.ytimg.com
+yt3.ggpht.com
+music.youtube.com
+youtu.be
+
+# Twitch
+twitch.tv
+#*.twitch.tv
+#*.ttvnw.net
+#*.jtvnw.net
+#*.video-edge*.ttvnw.net
+#usher.ttvnw.net
+
+# TikTok
+tiktok.com
+*.tiktok.com
+*.tiktokcdn.com
+*.tiktokv.com
+vm.tiktok.com
+vt.tiktok.com
+
+# Discord
+discord.com
+*.discord.com
+*.discordapp.com
+*.discord.gg
+*.discord.media
+
+# Telegram
+telegram.org
+*.telegram.org
+*.t.me
+*.telegram.me
+
+# WhatsApp
+whatsapp.com
+*.whatsapp.com
+web.whatsapp.com
+
+# Instagram/Facebook
+instagram.com
+*.instagram.com
+facebook.com
+*.facebook.com
+
+# Twitter/X
+twitter.com
+*.twitter.com
+x.com
+*.x.com
+
+# Другие популярные
+reddit.com
+*.reddit.com
+pinterest.com
+*.pinterest.com
+github.com
+*.github.com
+netflix.com
+*.netflix.com
+spotify.com
+*.spotify.com
+vk.com
+*.vk.com
+ok.ru
+*.ok.ru
+whatsapp.com
+*.whatsapp.com
+web.whatsapp.com
+*.whatsapp.net
+*.wa.me
+*.fbcdn.net
+*.fbsbx.com
+
+# Игры
+store.steampowered.com
+steamcommunity.com
+epicgames.com
+store.epicgames.com
+roblox.com
+*.roblox.com
+
+# Google AI и инструменты
+aistudio.google.com
+*.aistudio.google.com
+ai.google
+*.ai.google
+generativeai.google
+*.generativeai.google
+bard.google.com
+*.bard.google.com
+gemini.google.com
+*.gemini.google.com
+palm-api.google.com
+*.palm-api.google.com
+makersuite.google.com
+*.makersuite.google.com

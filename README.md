@@ -19,7 +19,7 @@
 ---
 
 ## 📖 Содержание / Table of Contents
-- [🇷🇺 Русская версия](#-русская-версия)
+- [🇷🇺 Русская версия](#русская-версия)
   - [✨ Возможности](#возможности)
   - [🎯 Что восстанавливает](#что-восстанавливает)
   - [🚀 Быстрый старт](#быстрый-старт)
@@ -27,14 +27,14 @@
   - [⚙️ Конфигурация](#конфигурация)
   - [🔧 Управление](#управление)
   - [❓ Частые вопросы](#частые-вопросы)
-- [🇺🇸 English Version](#-english-version)
-  - [✨ Features](#features)
-  - [🎯 What It Restores](#what-it-restores)
-  - [🚀 Quick Start](#quick-start)
-  - [📁 Project Structure](#project-structure)
-  - [⚙️ Configuration](#configuration)
-  - [🔧 Management](#management)
-  - [❓ FAQ](#faq)
+- [🇺🇸 English Version](#english-version)
+  - [✨ Features](#features-1)
+  - [🎯 What It Restores](#what-it-restores-1)
+  - [🚀 Quick Start](#quick-start-1)
+  - [📁 Project Structure](#project-structure-1)
+  - [⚙️ Configuration](#configuration-1)
+  - [🔧 Management](#management-1)
+  - [❓ FAQ](#faq-1)
 
 ---
 

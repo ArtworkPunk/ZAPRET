@@ -10,6 +10,9 @@ i.ytimg.com
 yt3.ggpht.com
 music.youtube.com
 youtu.be
+*.music.youtube.com
+www.music.youtube.com
+m.music.youtube.com
 
 # Twitch
 twitch.tv
